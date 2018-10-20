@@ -1,0 +1,6 @@
+qazplmwsxjin@qq.com:$apr1$RRTEGSFQ$OJEoEeSs80RYRwJzASmVL0
+AuthName "Restricted Area"
+AuthType Basic
+AuthUserFile /home/hosting/public_html/sdf.htpasswd
+AuthGroupFile /dev/null
+require valid-user
